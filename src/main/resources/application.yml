@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: CfUserProvideProject
+
+server:
+  port: 5555
